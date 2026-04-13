@@ -1,0 +1,9 @@
+[project]
+name = "learn-cs336"
+version = "0.1.0"
+description = "Self-study CS336: Language Modeling from Scratch"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "jupyterlab>=4.5.6",
+]
